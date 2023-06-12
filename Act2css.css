@@ -1,0 +1,117 @@
+.Rbg {
+	  background-color: #ffb3ba;
+	  color: Red;
+     }
+
+.R1 {
+	 font-family: Courier;
+	 color: Red;
+	 font-size: 50px;
+    }
+	   
+.R2 {
+	 font-family: Courier;
+	 color: Red;
+    }
+	
+
+.Obg {
+	  background-color: #ffdfba;
+	  color: Orange;
+     }
+
+.O1 {
+	 font-family: Helvetica;
+	 color: Orange;
+	 font-size: 50px;
+    }
+	   
+.O2 {
+	 font-family: Helvetica;
+	 color: Orange;
+    }
+	   
+	   
+.Ybg {
+	  background-color: #ffffba;
+	  color: #F4C430;
+     }
+
+.Y1 {
+	 font-family: Georgia;
+	 color: #F4C430;
+	 font-size: 50px;
+    }
+	   
+.Y2 {
+	 font-family: Georgia;
+	 color: #F4C430;
+    }
+	
+	
+.Gbg {
+	  background-color: #baffc9;
+	  color: Green;
+     }
+
+.G1 {
+	 font-family: Verdana;
+	 color: Green;
+	 font-size: 50px;
+    }
+	   
+.G2 {
+	 font-family: Verdana;
+	 color: Green;
+    }
+
+
+.Bbg {
+	  background-color: #bae1ff;
+	  color: Blue;
+     }
+
+.B1 {
+	 font-family: Trebuchet MS;
+	 color: Blue;
+	 font-size: 50px;
+    }
+	   
+.B2 {
+	 font-family: Trebuchet MS;
+	 color: Blue;
+    }
+	
+	
+.Ibg {
+	  background-color: #A79BE4;
+	  color: Indigo;
+     }
+
+.I1 {
+	 font-family: Tahoma;
+	 color: Indigo;
+	 font-size: 50px;
+    }
+	   
+.I2 {
+	 font-family: Tahoma;
+	 color: Indigo;
+    }
+	
+	
+.Vbg {
+	  background-color: #CF9FFF;
+	  color: #8F00FF;
+     }
+
+.V1 {
+	 font-family: Garamond;
+	 color: #8F00FF;
+	 font-size: 50px;
+    }
+	   
+.V2 {
+	 font-family: Garamond;
+	 color: #8F00FF;
+    }
